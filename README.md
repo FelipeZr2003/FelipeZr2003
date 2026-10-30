@@ -19,8 +19,7 @@
 ---
 
 ### 📂 Proyectos destacados
-*utton>
-</a>
+* 🖥️ **Proyecto 3D:** [![Ver Repositorio](https://img.shields.io/badge/GitHub-EnsambleFree-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeZr2003/EnsambleFree) [![Ver Demo Online](https://img.shields.io/badge/🌐_Demo_en_Vivo-2ea44f?style=for-the-badge)](https://felipezr2003.github.io/EnsambleFree/)
 * ** 2**
 * ** 3** 
 
