@@ -19,7 +19,11 @@
 ---
 
 ### 📂 Proyectos destacados
-* ** 1** 
+*  **[EnsambleFree — Configurador 3D de Gabinetes para PC](https://github.com/FelipeZr2003/EnsambleFree)**
+Herramienta web interactiva desarrollada con **Three.js, WebGL y JavaScript** para diseñar chasis de PC, simular dimensiones en tiempo real y validar la compatibilidad de componentes antes de ensamblarlos.
+
+[![Ver Repo](https://img.shields.io/badge/GitHub-Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FelipeZr2003/EnsambleFree)
+[![Ver Demo en Vivo](https://img.shields.io/badge/Demo-🌐_Ver_Online-2ea44f?style=flat-square&logo=google-chrome&logoColor=white)](https://felipezr2003.github.io/EnsambleFree/)
 * ** 2**
 * ** 3** 
 
