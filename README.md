@@ -6,7 +6,7 @@
 ### 🚀 Sobre mí
 * 💻 Con experiencia práctica creando soluciones reales para negocios (gestión de inventarios, sistemas de datos).
 * 🤖 Interesado en la integración de Inteligencia Artificial (Claude Code) y analítica de datos en el desarrollo de software.
-* [![Ver mi CV Interactivo](https://img.shields.io/badge/🌐_Ver_CV_Interactivo-Mi_Portafolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://felipezr2003.github.io/Mi-Cv/)
+* [![Ver mi CV Interactivo](https://img.shields.io/badge/🌐_Ver_CV_Interactivo)](https://felipezr2003.github.io/Mi-Cv/)
 * 📍 Ubicado en Medellin, Colombia.
 
 ---
@@ -19,10 +19,7 @@
 ---
 
 ### 📂 Proyectos destacados
-* <a href="https://felipezr2003.github.io/EnsambleFree/" target="_blank">
-  <button type="button" style="background-color: #2ea44f; color: white; padding: 10px 18px; border: none; border-radius: 6px; font-weight: bold; cursor: pointer; display: inline-flex; align-items: center; gap: 8px; font-size: 14px;">
-    🚀 Probar EnsambleFree (Configurador 3D)
-  </button>
+*utton>
 </a>
 * ** 2**
 * ** 3** 
