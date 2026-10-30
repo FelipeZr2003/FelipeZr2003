@@ -26,8 +26,4 @@
 * **LinkedIn:** www.linkedin.com/in/pipezapata071122
 * **Gmail:** afzr2003@gmail.comm
 *  **Whatsapp:** https://wa.me/573172345218
-<form action="https://wa.me/573172345218" target="_blank">
-  <button type="submit" style="background-color: #25D366; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-weight: bold; cursor: pointer; display: inline-flex; align-items: center; gap: 8px;">
-    💬 Escríbeme a WhatsApp
-  </button>
-</form>
+
