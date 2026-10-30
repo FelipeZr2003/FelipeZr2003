@@ -6,6 +6,7 @@
 ### 🚀 Sobre mí
 * 💻 Con experiencia práctica creando soluciones reales para negocios (gestión de inventarios, sistemas de datos).
 * 🤖 Interesado en la integración de Inteligencia Artificial (Claude Code) y analítica de datos en el desarrollo de software.
+* [![Ver mi CV Interactivo](https://img.shields.io/badge/🌐_Ver_CV_Interactivo-Mi_Portafolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://felipezr2003.github.io/Mi-Cv/)
 * 📍 Ubicado en Medellin, Colombia.
 
 ---
