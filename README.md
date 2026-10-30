@@ -19,7 +19,7 @@
 ---
 
 ### 📂 Proyectos destacados
-* 🖥️ **Proyecto 3D:** [![Ver Repositorio](https://img.shields.io/badge/GitHub-EnsambleFree-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeZr2003/EnsambleFree) [![Ver Demo Online](https://img.shields.io/badge/🌐_Demo_en_Vivo-2ea44f?style=for-the-badge)](https://felipezr2003.github.io/EnsambleFree/)
+* **🖥️ Proyecto 3D:** [![Ver Repositorio](https://img.shields.io/badge/-_GitHub:_EnsambleFree-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeZr2003/EnsambleFree) [![Ver Demo Online](https://img.shields.io/badge/-_🌐_Demo_en_Vivo-2ea44f?style=for-the-badge)](https://felipezr2003.github.io/EnsambleFree/)
 * ** 2**
 * ** 3** 
 
