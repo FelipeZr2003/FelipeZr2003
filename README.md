@@ -1,16 +1,26 @@
-## Hi there 👋
+### ¡Hola! Soy Felipe Zapata 👋
+**Ingeniero en Desarrollo de Software y Tecnólogo** | Apasionado por la automatización, la gestión de datos y el desarrollo backend.
 
-<!--
-**FelipeZr2003/FelipeZr2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+* 💻 Con experiencia práctica creando soluciones reales para negocios (gestión de inventarios, sistemas de datos).
+* 🤖 Interesado en la integración de Inteligencia Artificial (Claude Code) y analítica de datos en el desarrollo de software.
+* 📍 Ubicado en Medellin, Colombia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+* **Lenguajes / Backend:** C#, .NET, Python, SQL, Kotlin, Javascript, Php.
+* **Bases de Datos:** SQL Server, MySQL,Firebase, PostgreSQL.
+* **Herramientas & IA:** Git, GitHub, Claude Code, Codex, Gemini, Power Platform, Business Intelligence.
+
+---
+
+### 📂 Proyectos destacados
+* ** 1** 
+* ** 2**
+* ** 3** 
+
+ 📫 **¿Cómo contactarme?**
+* **LinkedIn:** 
