@@ -26,3 +26,6 @@
 * **LinkedIn:** www.linkedin.com/in/pipezapata071122
 * **Gmail:** afzr2003@gmail.comm
 *  **Whatsapp:** https://wa.me/573172345218
+<a href="https://wa.me/573172345218" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
