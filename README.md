@@ -23,4 +23,6 @@
 * ** 3** 
 
  📫 **¿Cómo contactarme?**
-* **LinkedIn:** 
+* **LinkedIn:** www.linkedin.com/in/pipezapata071122
+* **Gmail:** afzr2003@gmail.comm
+*  **Whatsapp:** 3172345218
